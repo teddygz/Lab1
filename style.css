@@ -1,0 +1,12 @@
+		body { background-color: rgb(200,200,200);
+				color: white;
+				padding: 18px;
+				font-family: Arial, Verdana, sans-serif;}
+			li{ color: black;
+				 font-style: italic;
+				 font-size: large;
+			     font-family: Arial, Verdana, sans-serif; }
+			p {
+				color: black;
+				font-size: large;
+				font-family: Candara,Calibri,Segoe,Segoe UI,Optima,Arial,sans-serif; }
